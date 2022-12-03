@@ -5,8 +5,11 @@
 3. .env에 
 
 MYSQL_USER=`사용할_유저이름_작성`
+
 MYSQL_PASSWORD=`사용할_비밀번호_작성`
+
 MYSQL_ROOT_PASSWORD=`사용할_루트비밀번호_작성`
+ 
 MYSQL_DATABASE=awesomelydelicious
 
 위 내용을 작성해주고 .gitignore에 .env 적어주기
